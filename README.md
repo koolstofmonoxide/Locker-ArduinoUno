@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/koolstofmonoxide/locker-arduinouno">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="imgs/logo.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">Locker</h3>
@@ -62,9 +62,15 @@ I'm writing a full documentation, will be linked later on.
 
 ### Built with
 
+<!--
 * [![Arduino][Arduino.cc]][Arduino-url]
 * [![C++][cplusplus.com]][C++-url]
 * [![VS Code][VSCode]][VSCode-url]
+-->
+
+- Arduino
+- C++
+- VSCode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,10 +78,10 @@ I'm writing a full documentation, will be linked later on.
 ## Roadmap
 No specific order.
   
-    - [ ] Documentation
-    - [ ] Implement functionality for LCD-screen.
-    - [ ] Choose code before locking the locker.
-    - [ ] Add servo motor to simulate the dead bolt of a locker opening.
+- [ ] Documentation
+- [ ] Implement functionality for LCD-screen.
+- [ ] Choose code before locking the locker.
+- [ ] Add servo motor to simulate the dead bolt of a locker opening.
 
 ### Changelog
 
@@ -86,7 +92,7 @@ You can find the project's changelog in the [CHANGELOG.md](https://github.com/ko
 <!-- CONTACT -->
 ## Contact
 
-Co Bijkerk - [Discord](https://discord.gg/yYVuKZJr) - cobijkerk2006@gmail.com
+Co Bijkerk - [Discord](https://discord.gg/yYVuKZJr) - [E-mail](cobijkerk2006@gmail.com)
 
 Project Link: [https://github.com/koolstofmonoxide/locker-arduinouno](https://github.com/koolstofmonoxide/locker-arduinouno)
 
@@ -108,7 +114,7 @@ Project Link: [https://github.com/koolstofmonoxide/locker-arduinouno](https://gi
 [forks-shield]: https://img.shields.io/github/forks/koolstofmonoxide/locker-arduinouno.svg?style=for-the-badge
 [forks-url]: https://github.com/koolstofmonoxide/locker-arduinouno/network/members
 [stars-shield]: https://img.shields.io/github/stars/koolstofmonoxide/locker-arduinouno.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/koolstofmonoxide/locker-arduinouno
+[stars-url]: https://github.com/koolstofmonoxide/locker-arduinouno/stargazers
 [issues-shield]: https://img.shields.io/github/issues/koolstofmonoxide/locker-arduinouno.svg?style=for-the-badge
 [issues-url]: https://github.com/koolstofmonoxide/locker-arduinouno/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
