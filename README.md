@@ -80,7 +80,7 @@ No specific order.
   
 - [ ] Documentation
 - [x] Implement functionality for LCD-screen.
-- [ ] Choose code before locking the locker.
+- [x] Choose code before locking the locker.
 - [ ] Add servo motor to simulate the dead bolt of a locker opening.
 
 ### Changelog
