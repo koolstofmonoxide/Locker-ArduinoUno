@@ -72,14 +72,14 @@ I'm writing a full documentation, will be linked later on.
 - C++
 - VSCode
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 No specific order.
   
 - [ ] Documentation
-- [ ] Implement functionality for LCD-screen.
+- [x] Implement functionality for LCD-screen.
 - [ ] Choose code before locking the locker.
 - [ ] Add servo motor to simulate the dead bolt of a locker opening.
 
@@ -87,7 +87,7 @@ No specific order.
 
 You can find the project's changelog in the [CHANGELOG.md](https://github.com/koolstofmonoxide/locker-arduinouno/CHANGELOG.md) file.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -103,7 +103,7 @@ Project Link: [https://github.com/koolstofmonoxide/locker-arduinouno](https://gi
 * [Wiring up multiple push buttons Arduino UNO](https://www.the-diy-life.com/multiple-push-buttons-on-one-arduino-input/)
 * [Readme formatting](https://github.com/othneildrew/Best-README-Template/blob/master/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Arduino-url]: https://www.arduino.cc/
